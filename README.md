@@ -50,7 +50,7 @@ The sample data file (`fo_random.txt`) is included in the repository under `src/
 1. **Clone the repository**
    ```
    git clone https://github.com/pmishko/db-import.git
-   cd DBImport
+   cd db-import
    ```
 
 2. **Run the Application**
